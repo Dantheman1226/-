@@ -1,0 +1,21 @@
+h5py==2.10.0
+Keras==2.4.3
+matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+numpy==1.18.5
+pandas @ file:///C:/ci/pandas_1592833613419/work
+scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
+sklearn==0.0
+streamlit==0.71.0
+tensorboard==2.3.0
+tensorboard-plugin-wit==1.7.0
+tensorflow==2.3.0
+tensorflow-estimator==2.3.0
+tensorflow-gpu==2.3.0
+tensorflow-gpu-estimator==2.3.0
+tensorflow-hub==0.9.0
+tensorflowjs==2.7.0
+tokenizers==0.8.1rc2
+torch==1.6.0
+torchvision==0.7.0
+transformers==3.3.1
